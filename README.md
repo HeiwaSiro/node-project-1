@@ -22,7 +22,7 @@ Run the following command to start the server.
 node app.js
 ```
 4. View in Browser
-Open your web browser and navigate to http://localhost:3000 to see the running application.
+Open your web browser and navigate to [http://localhost:3000](http://127.0.0.1:3000/) to see the running application.
 This will start the server.
 ## Additional Notes
 - Customize the server's behavior by modifying or adding code under their respective directory (`app.js`).
