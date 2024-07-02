@@ -18,7 +18,7 @@ cd node-project-1
 ```
 3. Start the Server
 Run the following command to start the server.
-- ![Start the Server](https://i.ibb.co/v3zz4xW/Screenshot-2024-07-02-191321.png)
+ ![Start the Server](https://i.ibb.co/v3zz4xW/Screenshot-2024-07-02-191321.png)
 ```bash
 node app.js
 ```
