@@ -3,7 +3,6 @@
 This project demonstrates a basic server structure using Node.js and JavaScript.
 ### Tech of Project
 - ![Node.js](https://img.shields.io/badge/Node.js-v22.3.0-green) - Node.js is a JavaScript runtime.
-- ![npm](https://img.shields.io/badge/npm-v10.8.1-red) - npm is the package manager for Node.js.
 - ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow) - ES6 version of JavaScript.
 - ![VSCode](https://img.shields.io/badge/VSCode-Recommended-lightgrey) - Visual Studio Code or your preferred code editor.
 ## Setup
