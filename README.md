@@ -1,6 +1,6 @@
 # Node Project 1
 ## Overview
-This project is a basic structure of a server running with nodejs and javascript code.
+This project demonstrates a basic server structure using Node.js and JavaScript.
 ### Tech of Project
 - ![Node.js](https://img.shields.io/badge/Node.js-v22.3.0-green) - Node.js is a JavaScript runtime.
 - ![npm](https://img.shields.io/badge/npm-v10.8.1-red) - npm is the package manager for Node.js.
@@ -11,10 +11,18 @@ This project is a basic structure of a server running with nodejs and javascript
 ```bash
 git clone https://github.com/HeiwaSiro/node-project-1.git
 ```
-2. Install Dependencies: Navigate to the project directory and install dependencies.
+2. Navigate to the Project Directory
+Go to the directory where the project has been cloned.
+```bash
+cd node-project-1
+```
+3. Start the Server
+Run the following command to start the server.
 ```bash
 node app.js
 ```
+4. View in Browser
+Open your web browser and navigate to http://localhost:3000 to see the running application.
 This will start the server.
 ## Additional Notes
 - Customize the server's behavior by modifying or adding code under their respective directory (`app.js`).
